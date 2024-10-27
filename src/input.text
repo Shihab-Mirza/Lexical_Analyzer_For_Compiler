@@ -1,0 +1,8 @@
+public class input {
+    public static void main ( String [] args ) {
+        int 1n1 = 7.7777;
+        int 1n2 = 40;
+        int total = n1 + n2 - n1 * n2 / n1 ;
+        System.out.println(total);
+    }
+} 
